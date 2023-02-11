@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Problem Solving Pot-morten
+title: Problem Solving Post-morten
 date: 2023-02-11 11:59:00-0400
 description: I had a request at work to give an estimate on how how difficult some work might be. The challenge was that I had very little context in the code base that would need work, and I had about an hour to get the answer. This is a debrief on that hour of work, and a few takeaways that might be useful for people trying to improve problem solving, particularly when time is heavily constrained.
 categories: problem-solving

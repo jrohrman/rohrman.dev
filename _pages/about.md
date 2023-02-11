@@ -20,4 +20,4 @@ I am a software engineer (primarily back end / Ruby on Rails) living in Nashvill
 
 I am deeply interested in continuous delivery and the tools, practices and skills that make iterative development work. I'm also developing some strong feelings about leadership and the necessity for every team memeber to understand how layers of business context relate to a single line code change.
 
-I'll use this space to write occasionally about whatever is on my mind, and tangentially related to engineering -- career development, code, engineering practices, etc.
+I'll use this space to write occasionally about whatever is on my mind, and tangentially related to engineering -- career development, code, engineering practices, etc. Outside of work, I am interested in fitness and strength training, art and music, I read voraciously, and have a busy family life.

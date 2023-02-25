@@ -2,7 +2,7 @@
 layout: post
 title: Rails Authentication and Small Increments
 date: 2023-02-25 11:59:00-0400
-description: 
+description: I am building a small web app that will be used for tracking data around workouts. The first thing I want to build is user authentication, but there are an overwhelming number of options available. Thinking about what can be done now, and allow for future growth was a good exercise in context and incremental delivery.
 categories: side-project
 giscus_comments: true
 ---
